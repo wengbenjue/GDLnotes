@@ -1,0 +1,16 @@
+
+*.pdf
+
+*.SUNet
+*.pyc
+
+src/not_mnist/*.tar.gz
+src/not_mnist/notMNIST*
+*/**.tar.gz
+*.tar.gz
+.DS_Store
+.idea
+ChineseNER/.DS_Store
+GDLnotes/.DS_Store
+assignments/.DS_Store
+examples/.DS_Store
